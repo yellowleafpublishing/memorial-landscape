@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://yellowleafpublishing.github.io
+# url:
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /memorial-landscape
+# baseurl:
 # location of code, the full url to your github repository
 source-code: https://github.com/yellowleafpublishing/memorial-landscape
 
@@ -25,7 +25,7 @@ tagline: Exploring campus memorials
 # this description might appear in search result lists, keep around 160 characters max
 description: "Change this in _config.yml under Site Settings. CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: wake forest university;history;wake forest university - history;memorials;wake forest univeristy - memorials
+keywords: wake forest university;memorials;wake forest univeristy - memorials
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Yellow Leaf Publishing, Wake Forest University
 
