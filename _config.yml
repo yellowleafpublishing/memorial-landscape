@@ -18,9 +18,9 @@ source-code: https://github.com/yellowleafpublishing/memorial-landscape
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Wake Forest University Memorial Landscape Project
+title: Memorial Landscape Project
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Exploring campus memorials
+tagline: Wake Forest University
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Change this in _config.yml under Site Settings. CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
